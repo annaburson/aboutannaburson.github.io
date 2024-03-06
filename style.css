@@ -1,0 +1,8 @@
+body {background-color: lightblue;}
+ul {list-style-type: none; margin: 0; padding: 0; color: green;}
+li {display:inline; padding:8px; background-color: white;}
+p {text-align:center}
+.center {display:block; margin-left: auto; margin-right: auto;}
+main {text-align:center}
+h1 {text-align: center; font-family: Georgia, 'Times New Roman', Times, serif;}
+.row {margin-right: 25%; margin-left: 25%;}
